@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577651466 source:c:\users\kajal\onedrive\desktop\programs_practice\parking_management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
